@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="480"
+   viewBox="0 0 84.666667 127"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="BookList.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3898">
+      <g
+         id="use3900"
+         inkscape:label="Clip">
+        <a
+           id="a4080">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.37875399"
+             id="rect4078"
+             width="80.394753"
+             height="19.918568"
+             x="1.5689934"
+             y="47.682087" />
+        </a>
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.21424423"
+           id="rect4082"
+           width="16.303316"
+           height="15.358375"
+           x="3.8368499"
+           y="49.143658" />
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.32279649"
+           id="rect4084"
+           width="53.18428"
+           height="8.8363018"
+           x="25.304968"
+           y="56.18446" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332"
+           x="4.0510092"
+           y="58.051266"
+           id="text4088"><tspan
+             sodipodi:role="line"
+             id="tspan4086"
+             x="4.0510092"
+             y="58.051266"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.26458332">Cover</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="50.920055"
+           y="53.70454"
+           id="text4094"><tspan
+             sodipodi:role="line"
+             id="tspan4090"
+             x="50.920055"
+             y="53.70454"
+             style="stroke-width:0.26458332">Author</tspan><tspan
+             sodipodi:role="line"
+             x="50.920055"
+             y="60.760098"
+             style="stroke-width:0.26458332"
+             id="tspan4092" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="27.67452"
+           y="53.70454"
+           id="text4098"><tspan
+             sodipodi:role="line"
+             id="tspan4096"
+             x="27.67452"
+             y="53.70454"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Title</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="42.226604"
+           y="62.397999"
+           id="text4102"><tspan
+             sodipodi:role="line"
+             id="tspan4100"
+             x="42.226604"
+             y="62.397999"
+             style="stroke-width:0.26458332">Blurb</tspan></text>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3898-9">
+      <g
+         id="use3900-0"
+         inkscape:label="Clip">
+        <a
+           id="a4052">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.37875399"
+             id="rect4050"
+             width="80.394753"
+             height="19.918568"
+             x="1.5689934"
+             y="47.682087" />
+        </a>
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.21424423"
+           id="rect4054"
+           width="16.303316"
+           height="15.358375"
+           x="3.8368499"
+           y="49.143658" />
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.32279649"
+           id="rect4056"
+           width="53.18428"
+           height="8.8363018"
+           x="25.304968"
+           y="56.18446" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332"
+           x="4.0510092"
+           y="58.051266"
+           id="text4060"><tspan
+             sodipodi:role="line"
+             id="tspan4058"
+             x="4.0510092"
+             y="58.051266"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.26458332">Cover</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="50.920055"
+           y="53.70454"
+           id="text4066"><tspan
+             sodipodi:role="line"
+             id="tspan4062"
+             x="50.920055"
+             y="53.70454"
+             style="stroke-width:0.26458332">Author</tspan><tspan
+             sodipodi:role="line"
+             x="50.920055"
+             y="60.760098"
+             style="stroke-width:0.26458332"
+             id="tspan4064" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="27.67452"
+           y="53.70454"
+           id="text4070"><tspan
+             sodipodi:role="line"
+             id="tspan4068"
+             x="27.67452"
+             y="53.70454"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Title</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="42.226604"
+           y="62.397999"
+           id="text4074"><tspan
+             sodipodi:role="line"
+             id="tspan4072"
+             x="42.226604"
+             y="62.397999"
+             style="stroke-width:0.26458332">Blurb</tspan></text>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3898-5">
+      <g
+         id="use3900-8"
+         inkscape:label="Clip">
+        <a
+           id="a4024">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.37875399"
+             id="rect4022"
+             width="80.394753"
+             height="19.918568"
+             x="1.5689934"
+             y="47.682087" />
+        </a>
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.21424423"
+           id="rect4026"
+           width="16.303316"
+           height="15.358375"
+           x="3.8368499"
+           y="49.143658" />
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.32279649"
+           id="rect4028"
+           width="53.18428"
+           height="8.8363018"
+           x="25.304968"
+           y="56.18446" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332"
+           x="4.0510092"
+           y="58.051266"
+           id="text4032"><tspan
+             sodipodi:role="line"
+             id="tspan4030"
+             x="4.0510092"
+             y="58.051266"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.26458332">Cover</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="50.920055"
+           y="53.70454"
+           id="text4038"><tspan
+             sodipodi:role="line"
+             id="tspan4034"
+             x="50.920055"
+             y="53.70454"
+             style="stroke-width:0.26458332">Author</tspan><tspan
+             sodipodi:role="line"
+             x="50.920055"
+             y="60.760098"
+             style="stroke-width:0.26458332"
+             id="tspan4036" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="27.67452"
+           y="53.70454"
+           id="text4042"><tspan
+             sodipodi:role="line"
+             id="tspan4040"
+             x="27.67452"
+             y="53.70454"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Title</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="42.226604"
+           y="62.397999"
+           id="text4046"><tspan
+             sodipodi:role="line"
+             id="tspan4044"
+             x="42.226604"
+             y="62.397999"
+             style="stroke-width:0.26458332">Blurb</tspan></text>
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="203.97196"
+     inkscape:cy="232.48224"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-170.00002)">
+    <rect
+       id="rect3713"
+       width="86.060799"
+       height="18.174328"
+       x="-0.53453904"
+       y="169.24518"
+       style="fill:#008000;stroke-width:0.13512301" />
+    <rect
+       style="fill:#000000;stroke-width:0.15769556"
+       id="rect3737"
+       width="12.164697"
+       height="2.4781587"
+       x="0.59938955"
+       y="172.26898" />
+    <rect
+       style="fill:#000000;stroke-width:0.15769556"
+       id="rect3737-5"
+       width="12.164697"
+       height="2.4781587"
+       x="0.34324619"
+       y="176.50945" />
+    <rect
+       style="fill:#000000;stroke-width:0.15769556"
+       id="rect3737-6"
+       width="12.164697"
+       height="2.4781587"
+       x="0.53223556"
+       y="181.23415" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text">
+    <g
+       id="g3860" />
+    <g
+       id="g4136">
+      <rect
+         y="23.459688"
+         x="1.486734"
+         height="19.918568"
+         width="80.394753"
+         id="rect3765"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.37875399" />
+      <rect
+         y="24.910643"
+         x="3.7439735"
+         height="12.166812"
+         width="16.702528"
+         id="rect3777"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.19300921" />
+      <rect
+         y="31.962063"
+         x="25.22271"
+         height="8.8363018"
+         width="53.18428"
+         id="rect3796"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.32279649" />
+      <text
+         transform="scale(0.87452913,1.1434725)"
+         id="text3769"
+         y="28.921555"
+         x="5.6672149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.07715416px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2538577"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.07715416px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.2538577"
+           y="28.921555"
+           x="5.6672149"
+           id="tspan3767"
+           sodipodi:role="line">Cover</tspan></text>
+      <text
+         id="text3788"
+         y="29.482143"
+         x="50.837795"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="29.482143"
+           x="50.837795"
+           id="tspan3786"
+           sodipodi:role="line">Author</tspan><tspan
+           id="tspan3790"
+           style="stroke-width:0.26458332"
+           y="36.537701"
+           x="50.837795"
+           sodipodi:role="line" /></text>
+      <text
+         id="text3773"
+         y="29.482143"
+         x="27.592262"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="29.482143"
+           x="27.592262"
+           id="tspan3771"
+           sodipodi:role="line">Title</tspan></text>
+      <text
+         id="text3794"
+         y="38.175602"
+         x="42.144348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="38.175602"
+           x="42.144348"
+           id="tspan3792"
+           sodipodi:role="line">Blurb</tspan></text>
+      <text
+         id="text4120"
+         y="41.955357"
+         x="3.4017854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="41.955357"
+           x="3.4017854"
+           id="tspan4118"
+           sodipodi:role="line">Status</tspan></text>
+    </g>
+    <g
+       transform="translate(0.46023547,22.521504)"
+       id="g4136-9">
+      <rect
+         y="23.459688"
+         x="1.486734"
+         height="19.918568"
+         width="80.394753"
+         id="rect3765-3"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.37875399" />
+      <rect
+         y="24.910643"
+         x="3.7439735"
+         height="12.166812"
+         width="16.702528"
+         id="rect3777-9"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.19300921" />
+      <rect
+         y="31.962063"
+         x="25.22271"
+         height="8.8363018"
+         width="53.18428"
+         id="rect3796-2"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.32279649" />
+      <text
+         transform="scale(0.87452913,1.1434725)"
+         id="text3769-8"
+         y="28.921555"
+         x="5.6672149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.07715416px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2538577"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.07715416px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.2538577"
+           y="28.921555"
+           x="5.6672149"
+           id="tspan3767-3"
+           sodipodi:role="line">Cover</tspan></text>
+      <text
+         id="text3788-0"
+         y="29.482143"
+         x="50.837795"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="29.482143"
+           x="50.837795"
+           id="tspan3786-1"
+           sodipodi:role="line">Author</tspan><tspan
+           id="tspan3790-7"
+           style="stroke-width:0.26458332"
+           y="36.537701"
+           x="50.837795"
+           sodipodi:role="line" /></text>
+      <text
+         id="text3773-8"
+         y="29.482143"
+         x="27.592262"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="29.482143"
+           x="27.592262"
+           id="tspan3771-9"
+           sodipodi:role="line">Title</tspan></text>
+      <text
+         id="text3794-1"
+         y="38.175602"
+         x="42.144348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="38.175602"
+           x="42.144348"
+           id="tspan3792-5"
+           sodipodi:role="line">Blurb</tspan></text>
+      <text
+         id="text4120-4"
+         y="41.955357"
+         x="3.4017854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="41.955357"
+           x="3.4017854"
+           id="tspan4118-9"
+           sodipodi:role="line">Status</tspan></text>
+    </g>
+    <g
+       transform="translate(0.27124704,45.389064)"
+       id="g4136-2">
+      <rect
+         y="23.459688"
+         x="1.486734"
+         height="19.918568"
+         width="80.394753"
+         id="rect3765-5"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.37875399" />
+      <rect
+         y="24.910643"
+         x="3.7439735"
+         height="12.166812"
+         width="16.702528"
+         id="rect3777-7"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.19300921" />
+      <rect
+         y="31.962063"
+         x="25.22271"
+         height="8.8363018"
+         width="53.18428"
+         id="rect3796-4"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.32279649" />
+      <text
+         transform="scale(0.87452913,1.1434725)"
+         id="text3769-9"
+         y="28.921555"
+         x="5.6672149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.07715416px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2538577"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.07715416px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.2538577"
+           y="28.921555"
+           x="5.6672149"
+           id="tspan3767-9"
+           sodipodi:role="line">Cover</tspan></text>
+      <text
+         id="text3788-4"
+         y="29.482143"
+         x="50.837795"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="29.482143"
+           x="50.837795"
+           id="tspan3786-5"
+           sodipodi:role="line">Author</tspan><tspan
+           id="tspan3790-9"
+           style="stroke-width:0.26458332"
+           y="36.537701"
+           x="50.837795"
+           sodipodi:role="line" /></text>
+      <text
+         id="text3773-3"
+         y="29.482143"
+         x="27.592262"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="29.482143"
+           x="27.592262"
+           id="tspan3771-5"
+           sodipodi:role="line">Title</tspan></text>
+      <text
+         id="text3794-7"
+         y="38.175602"
+         x="42.144348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="38.175602"
+           x="42.144348"
+           id="tspan3792-0"
+           sodipodi:role="line">Blurb</tspan></text>
+      <text
+         id="text4120-8"
+         y="41.955357"
+         x="3.4017854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="41.955357"
+           x="3.4017854"
+           id="tspan4118-1"
+           sodipodi:role="line">Status</tspan></text>
+    </g>
+    <g
+       transform="translate(0.08225903,67.878647)"
+       id="g4136-99">
+      <rect
+         y="23.459688"
+         x="1.486734"
+         height="19.918568"
+         width="80.394753"
+         id="rect3765-7"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.37875399" />
+      <rect
+         y="24.910643"
+         x="3.7439735"
+         height="12.166812"
+         width="16.702528"
+         id="rect3777-8"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.19300921" />
+      <rect
+         y="31.962063"
+         x="25.22271"
+         height="8.8363018"
+         width="53.18428"
+         id="rect3796-25"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.32279649" />
+      <text
+         transform="scale(0.87452913,1.1434725)"
+         id="text3769-3"
+         y="28.921555"
+         x="5.6672149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.07715416px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2538577"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.07715416px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.2538577"
+           y="28.921555"
+           x="5.6672149"
+           id="tspan3767-4"
+           sodipodi:role="line">Cover</tspan></text>
+      <text
+         id="text3788-9"
+         y="29.482143"
+         x="50.837795"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="29.482143"
+           x="50.837795"
+           id="tspan3786-0"
+           sodipodi:role="line">Author</tspan><tspan
+           id="tspan3790-2"
+           style="stroke-width:0.26458332"
+           y="36.537701"
+           x="50.837795"
+           sodipodi:role="line" /></text>
+      <text
+         id="text3773-0"
+         y="29.482143"
+         x="27.592262"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="29.482143"
+           x="27.592262"
+           id="tspan3771-1"
+           sodipodi:role="line">Title</tspan></text>
+      <text
+         id="text3794-9"
+         y="38.175602"
+         x="42.144348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="38.175602"
+           x="42.144348"
+           id="tspan3792-6"
+           sodipodi:role="line">Blurb</tspan></text>
+      <text
+         id="text4120-2"
+         y="41.955357"
+         x="3.4017854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="41.955357"
+           x="3.4017854"
+           id="tspan4118-12"
+           sodipodi:role="line">Status</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4263"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.9925595,-0.1889881)"><flowRegion
+         id="flowRegion4265"><rect
+           id="rect4267"
+           width="252.14285"
+           height="32.14286"
+           x="90.714287"
+           y="15.714285" /></flowRegion><flowPara
+         id="flowPara4269">Any book display page</flowPara><flowPara
+         id="flowPara4271" /></flowRoot>  </g>
+</svg>
